@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-label="Modern salon interior placeholder">
+  <rect width="1400" height="900" fill="#f6eee8"/>
+  <rect x="760" y="0" width="640" height="900" fill="#d8b6ad"/>
+  <rect x="840" y="130" width="390" height="520" rx="8" fill="#fffaf7"/>
+  <circle cx="1035" cy="300" r="120" fill="#9f3d53"/>
+  <rect x="905" y="475" width="260" height="30" fill="#201819"/>
+  <rect x="880" y="530" width="310" height="120" rx="8" fill="#0f766e"/>
+  <rect x="0" y="690" width="1400" height="210" fill="#eadfd9"/>
+</svg>
