@@ -4,7 +4,7 @@ window.Skins75ContactInfo = {
   formTitle: "Send enquiry on WhatsApp",
   info: [
     { label: "Phone", value: "+917004109958" },
-    { label: "Address", value: "Skins75 Unisex Salon & Academy, Main Market Road, India" },
+    { label: "Address", value: "Universal Tower Building, Danapur Main Road, Boring Rd, Kurji, Patna, Bihar 800010" },
     { label: "Timing", value: "Monday to Sunday, 10:00 AM - 8:00 PM" },
     { label: "Email", value: "thevoltixstudio.com" }
   ],
